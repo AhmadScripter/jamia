@@ -22,7 +22,11 @@
     "@angular/router": "^18.2.0",
     "@angular/ssr": "^18.2.3",
     "express": "^4.18.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.7.1",
+    "owl.carousel": "^2.3.4",
     "rxjs": "~7.8.0",
+    "swiper": "^11.2.1",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.10"
   },
